@@ -1,4 +1,4 @@
 # README
-202310701
-Patrick N. Gengania
-BSCSSE
+Student Number: 202310701
+Name: Patrick N. Gengania
+Course: BSCSSE
